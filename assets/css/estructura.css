@@ -118,6 +118,11 @@
 }
 
 
+.con-sepa{
+    margin: 0 !important;
+}
+
+
 @media (min-width: 1400px){
     .section-img-principal{
         height: 100vh;
